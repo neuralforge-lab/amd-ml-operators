@@ -1,0 +1,3 @@
+build/
+flash_attention
+*.o
